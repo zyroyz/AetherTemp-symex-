@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner](https://media.discordapp.net/attachments/1345742664355680547/1348804411736199178/image.png?ex=67d0cb7f&is=67cf79ff&hm=906aa8f8afecb3a209576e8c217733c98c0a87c6bbf2ebf29cdad5640326493b&=&format=webp&quality=lossless&width=765&height=856)  
+![Mod Menu Banner](https://media.discordapp.net/attachments/1346469712510451722/1348806731525787719/image.png?ex=67dff6e8&is=67dea568&hm=8357da6342a135eb612f372f1193bdc866bf81c0cfe4e37c943a9811aa5fe04b&=&format=webp&quality=lossless&width=765&height=856)  
 
 ## 🚀 About  
 It’s inspired by **symex**, and I hope you enjoy it.  
